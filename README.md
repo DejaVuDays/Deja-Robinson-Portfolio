@@ -3,7 +3,8 @@ Public Portfolio for Telling Stories with Data Course at CMU, Fall 2020
 
 # About Me
 <p align="center">
-  ![Alt Text](IMG_7053.jpg)
+ <img width="460" height="300" src="IMG_7053.jpg"> 
+ ![Alt Text](IMG_7053.jpg)
 </p>
 
 
