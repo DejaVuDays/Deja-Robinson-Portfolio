@@ -3,6 +3,7 @@ Public Portfolio for Telling Stories with Data Course at CMU, Fall 2020
 
 # About Me
 ![Alt Text](IMG_7053.jpg)
+
 My name is Deja Robinson (she/her) and I am currently pursuing a dual masters degrees at Carnegie Mellon University for Biomedical Engineering and Engineering & Technology Innovation Management. I want to save lives in my career, and I'm positiong myself to earn a role in Medical Device Product Management for a leading medical device company. 
 
 A favorite quote of mine that I try to apply to my life and daily actions by Tonie Morrison:
