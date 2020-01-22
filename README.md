@@ -27,4 +27,4 @@ I am enrolled in the course to better alingn myself to my career goals of becomi
 Here is where all my beautiful creations will live! 
 
 
-<iframe title="Here it is" aria-label="Bar Chart" src="//datawrapper.dwcdn.net/sBLB5/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="271"></iframe>
+<iframe title="Here it is" aria-label="Bar Chart" id="datawrapper-chart-sBLB5" src="//datawrapper.dwcdn.net/sBLB5/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="271"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
