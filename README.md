@@ -30,7 +30,7 @@ Here is where all my beautiful creations will live!
 
 Data Viz 2 
 
-[OECD Data Viz Assignment] (/dataviz2.md)
+[DataViz Assn] (/dataviz2.md)
 
 ## In Class Examples
 
