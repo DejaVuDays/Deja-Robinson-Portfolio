@@ -26,6 +26,9 @@ I am enrolled in the course to better alingn myself to my career goals of becomi
 # Portfolio
 Here is where all my beautiful creations will live! 
 
+## Homework Asignments 
+
+Data Viz 2 [OECD Data Viz Assignment, 1/27] (/dataviz2.md)
 
 ## In Class Examples
 
