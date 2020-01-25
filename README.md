@@ -29,8 +29,7 @@ Here is where all my beautiful creations will live!
 ## Homework Asignments 
 
 Data Viz 2 
-
-[DataViz Assn] (/dataviz2.md)
+[DataViz Assn](/dataviz2.md)
 
 ## In Class Examples
 
