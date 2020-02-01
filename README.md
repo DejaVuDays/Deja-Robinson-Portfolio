@@ -31,6 +31,9 @@ Here is where all my beautiful creations will live!
 Data Viz 2 
 [DataViz Assn](/dataviz2.md)
 
+Data Viz 3
+[Crafting by Critiquw](/dataviz3.md)
+
 ## In Class Examples
 
 ### No Broken Bars Here, 1/22
