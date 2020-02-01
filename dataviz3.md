@@ -20,20 +20,18 @@ To shift gears, I tried to create a bar graph with round circles dipicting a pot
 
 I finally went digital, and started exploring my circle concepts with Tableau. I created my growing circle graphs with dramatic white space and overlapping values to show how much larger the value had gotten over the passing of 12 days. I showed Sketch 3 to passersby and the original graph. People did not like the jarring white space to the left of the graph, but understood it's intention was to display groth. Respondents agrees with the color selection, and appreciated the values placed within the bubble. Respondents did not like the overlapping bubbles at the end of the spectrum.  
 
+![Sketch Three](sk1.png)
+
 In response, I added an axis for the cases to get rid of the unbalanced white space and overlapping value. I showed this to respondents and they mentioned it was clearer than the previos sketch. However, respondents did not like the text covering the bubble. I took a break from editing graphs, and did my weekly readings. After reading chapters 3 & 4 of Good Graphs, I realized I was using color inccorectly in this graph. Distinguishing between size and shape deminishes clarity for a graph.
 
 At this point, I went off digital and sketched a simple line graph that could clearly convey the information without other distracting features. 
+![Sketch Four](Sk2.png)
 
-![Sketch Three](sk1.png)
+I focused on creafting a clear title that was specific to the infomation I decided to highlight. I went to datawrapper to finish this graph because it was much simplier than the prior sketches. 
 
-Sketch 5 
-![Four](Sk2.png)
+![Sketch Five](skf.PNG)
 
-Sketch 6
-
-![Five](skf.PNG)
-
-Final Product
+# Final Graph Redesign 
 
 <iframe title="Coronavirus Infection, 100 fold Increase in 12 Days" aria-label="Interactive line chart" id="datawrapper-chart-X4aBG" src="//datawrapper.dwcdn.net/X4aBG/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
