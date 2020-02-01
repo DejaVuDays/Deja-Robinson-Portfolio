@@ -1,24 +1,32 @@
-##Critique By Design, Data Viz Assignment
+## Critique By Design, Data Viz Assignment
 
 Here's the orginal graph I found that I didn't think was reaching its full graph potiential. 
 -
 
+![Original Graph Found in the Wild](BadGraph.PNG)
+
+
 Here are my imediate sketches in response. 
 
 sketch 1
+![One](sk1.1.PNG)
 
 sketch 2
 
+![Two](sk1.2.PNG)
+
 Sketch 3
 
-Sketch 4
+![Three](sk1.png)
 
 Interviews with Passersby 
 
 Sketch 5 
+![Four](Sk2.png)
 
 Sketch 6
 
+![Five](skf.PNG)
 
 Final Product
 
