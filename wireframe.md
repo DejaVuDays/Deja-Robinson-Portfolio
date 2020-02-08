@@ -11,4 +11,20 @@ Exposing these gaps can insipre readers to act today, educate thier loved ones, 
     </embed>
 </object>
 
+# Data Sources 
+
+I've been using academic papers to find the right data to support my narritive. I've selected the following articles and sources. 
+
+>Barries to Breast Cancer Sceening and Coping Stategies in Korean American Woman; Journal of Transcultural Nursing
+>Brawling Over Mammography; Science AAAS
+>The Incidence of Fatal Breast Cancer Measures the Increased Effectiveness of Therapy in Women Participating in Mammography Screening; Cancer
+>Growing concer following compression mammography; learning from errors
+>Breast Canccer Screening Among Dominican Latinas: A Closer Look at Fatalism and Other Social and Cultural Factors; Health Education & Behavior 
+>'It's Easier Said Than Done' Perspectives on Mammography from Women with INtellectual Disabilities; Annals of Family Medicine
+>Newer and Experimental Breast Imaging Tests; American Cancer Society 
+>Client and pactitioner perspective on the screening mammography experience; Wiley 
+>Prospective Stidy of Factors Predicting Adherence to Survellance Mammography in oOmen Treated for Breast Cancer; Journal of Clinical Oncology
+
+Here's a link to the [documents](https://drive.google.com/drive/folders/1ntjsFZNc2vz-7FywFQ2_oNp1egFd9Q0o?usp=sharing)I will be using for my final presentation.
+
 [BACK TO HOME](/README.md)
