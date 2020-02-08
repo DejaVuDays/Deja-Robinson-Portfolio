@@ -1,13 +1,6 @@
 # Welcome!
 Public Portfolio for Telling Stories with Data Course at CMU, Fall 2020
 
-<object data="https://www.docdroid.net/pGSFWHF/wireframe.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://www.docdroid.net/pGSFWHF/wireframe.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://www.docdroid.net/pGSFWHF/wireframe.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
-
-
 # About Me
 <p align="center">
  <img width="472" height="529" src="IMG_7053.jpg"> 
@@ -40,6 +33,10 @@ Data Viz 2
 
 Data Viz 3
 [Crafting by Critiquw](/dataviz3.md)
+
+Final Wireframe
+[Breast Imaging](/wireframe.md)
+
 
 ## In Class Examples
 
