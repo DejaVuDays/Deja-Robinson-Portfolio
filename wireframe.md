@@ -5,7 +5,7 @@ Breast Imaging in painful in the current state, which is often overlooked by our
 Exposing these gaps can insipre readers to act today, educate thier loved ones, and consider dontating to a chartity that first supports patients' needs. 
 
 
-<object data="https://www.docdroid.net/pGSFWHF/wireframe.pdf" type="application/pdf" width="700px" height="700px">
+<object data="https://www.docdroid.net/pGSFWHF/wireframe.pdf" type="application/pdf" width="900px" height="700px">
     <embed src="https://www.docdroid.net/pGSFWHF/wireframe.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://www.docdroid.net/pGSFWHF/wireframe.pdf">Download PDF</a>.</p>
     </embed>
