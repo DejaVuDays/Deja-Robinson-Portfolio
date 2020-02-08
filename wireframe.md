@@ -11,6 +11,15 @@ Exposing these gaps can insipre readers to act today, educate thier loved ones, 
     </embed>
 </object>
 
+# Inital Sketches 
+
+I've decided to use common visulizations that would be accessible for my audience. I still have to do in depth digestion of my selected data sources to find more options for visulizations. 
+
+![Sketch One](sketch1.PNG)
+
+
+![Sketch Two](sketch2.PNG)
+
 # Data Sources 
 
 I've been using academic papers to find the right data to support my narritive. I've selected the following articles and sources. 
