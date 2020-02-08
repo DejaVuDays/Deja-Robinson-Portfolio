@@ -1,6 +1,8 @@
 # Welcome!
 Public Portfolio for Telling Stories with Data Course at CMU, Fall 2020
 
+[embed]https://www.docdroid.net/pGSFWHF/wireframe.pdf[/embed] 
+
 # About Me
 <p align="center">
  <img width="472" height="529" src="IMG_7053.jpg"> 
