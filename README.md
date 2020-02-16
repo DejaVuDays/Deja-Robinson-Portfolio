@@ -34,8 +34,11 @@ Data Viz 2
 Data Viz 3
 [Crafting by Critiquw](/dataviz3.md)
 
-Final Wireframe
+Part I of the Final 
 [Breast Imaging](/wireframe.md)
+
+Part II of the Final 
+[User Interviews](/parttwo.md)
 
 
 ## In Class Examples
