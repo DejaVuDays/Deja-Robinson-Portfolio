@@ -38,7 +38,7 @@ Part I of the Final
 [Breast Imaging](/wireframe.md)
 
 Part II of the Final 
-[User Interviews](/parttwo.md)
+[User Interviews](/Parttwo.md)
 
 
 ## In Class Examples
