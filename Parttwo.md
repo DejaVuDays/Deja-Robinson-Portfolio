@@ -49,18 +49,22 @@ Insert all that shit in here
 An overall comment I found was that I was using inclusive terms, such as female identifying/assigned female at birth- however I've neglected to use sources that actually included transgender individuals. To solve this, I've found a few articles relating to this population and intend to use them in my final presentation. 
 
 My additional refrences that will be included: 
->> Incident of breast cancer in a cohort of 5,135 transgender veterans
->> Breast Care in the Transgender Individual
->> Breast Imaging in the Transgender Patient 
+>Incident of breast cancer in a cohort of 5,135 transgender veterans
+> Breast Care in the Transgender Individual
+> Breast Imaging in the Transgender Patient 
 
 All my partifipants were unhappy with the screening rate slide, displaying a person icon. I've modified it to something like this:
 
 ![Unit Graph](Change1.png)	
 
 
-![Unit Graph](Change2.png)	
+![Language Graph](change2.png)	
 
+'Less visable barriers' will be changed to 'less considered barriers' 
 
-![Intro Photos](Change3.png)	
+![Intro Photos](change3.png)	
 
+My Introduction Photots were distracting and confused to a few of my interviewers, so they've been modified. 
+
+![New Inrto Photos](Introphoto.png)
 [BACK TO HOME](/README.md)
