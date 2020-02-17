@@ -20,7 +20,7 @@ Approach individuals who are working in healthcare or aligning themselves to ent
 
 ## Interview Script 
 
-Hello! My name is Deja and I'm creating a short interactive document about patient desired improvements in breast imaging. I currently have a powerpoint presentation, however this is just a wireframe for a scrollable interactive site such as this. *Display a Shorthand site* Is now a bad time to speak about possible improvements I could make in this presentation?
+Hello! My name is Deja and I'm creating a short interactive document about patient desired improvements in breast imaging. I currently have a powerpoint presentation, however this is just a wireframe for a scrollable interactive site such as this. *Display an example Shorthand site* Is now a bad time to speak about possible improvements I could make in this presentation?
 
 Thank you, per slide, I will ask you three questions and at the end we will have two wrap up questions.
 
@@ -36,15 +36,31 @@ After Entire Presentation:
 
 ## Interview Findings
 
-A: Female, 25, Speciality: Brain Imaging, Research
+A: Female, 25, Speciality: Brain Imaging, Research Adolecent Mental Health, Card Carring Feminist
 
-B: Male, 25, Speciality: Biomedical Research
+B: Male, 25, Speciality: Brain Imaging, Biomedical Research.
 
-C: Female, 23, Speciality: CMU Biomedical Graduate Student 
+C: Female, 23, Speciality: CMU Biomedical Graduate Student. 
 
 Insert all that shit in here
 
 # Revised wireframes
 
+An overall comment I found was that I was using inclusive terms, such as female identifying/assigned female at birth- however I've neglected to use sources that actually included transgender individuals. To solve this, I've found a few articles relating to this population and intend to use them in my final presentation. 
+
+My additional refrences that will be included: 
+>> Incident of breast cancer in a cohort of 5,135 transgender veterans
+>> Breast Care in the Transgender Individual
+>> Breast Imaging in the Transgender Patient 
+
+All my partifipants were unhappy with the screening rate slide, displaying a person icon. I've modified it to something like this:
+
+![Unit Graph](Change1.png)	
+
+
+![Unit Graph](Change2.png)	
+
+
+![Intro Photos](Change3.png)	
 
 [BACK TO HOME](/README.md)
