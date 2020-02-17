@@ -39,7 +39,7 @@ After Entire Presentation:
 3. Any other remarks? 
 
 ## Interview Findings
-I've included the quptes 
+I've included the quotes I found the most impactful for my experince: 
 
 A: Female, 25, Speciality: Brain Imaging, Research Adolecent Mental Health, Card Carring Feminist
 
