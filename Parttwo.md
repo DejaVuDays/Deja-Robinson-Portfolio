@@ -22,19 +22,24 @@ Approach individuals who are working in healthcare or aligning themselves to ent
 
 Hello! My name is Deja and I'm creating a short interactive document about patient desired improvements in breast imaging. I currently have a powerpoint presentation, however this is just a wireframe for a scrollable interactive site such as this. *Display an example Shorthand site* Is now a bad time to speak about possible improvements I could make in this presentation?
 
-Thank you, per slide, I will ask you three questions and at the end we will have two wrap up questions.
+Also, is it alright that I record you? 
+
+I will only be using characteristics you give me to depict you in your interview for my report such as age, gender, and career. 
+
+Let's get started! Per slide, I will ask you three questions and at the end we will have two wrap up questions.
 
 Per Slide: 
-> Is anything causing confusion on this slide?
-> What questions do you have? How might I address them on this slide?
-> Is the data vizulation aestheticly pleaseing? 
+1. Is anything causing confusion on this slide?
+2. What questions do you have? How might I address them on this slide?
+3. Is the data vizulation aestheticly pleaseing? 
 
 After Entire Presentation: 
-> What is missing from this presentation? 
-> Who do you think this site is for? 
-> Any other remarks? 
+1. What is missing from this presentation? 
+2. Who do you think this site is for? 
+3. Any other remarks? 
 
 ## Interview Findings
+I've included the quptes 
 
 A: Female, 25, Speciality: Brain Imaging, Research Adolecent Mental Health, Card Carring Feminist
 
@@ -49,6 +54,7 @@ B: Male, 25, Speciality: Brain Imaging, Biomedical Research.
 "I think this site is for women...and men who have women in their lives and are curious about keeping thier health," 
 
 C: Female, 23, Speciality: CMU Biomedical Graduate Student. 
+
 "This site is for people who are empathetic, and truly care about people's emotions during thier healthcare experience...and also what follows them home when they're done," 
 
 "I wish there was more information about compression. The image of the boobs being squished is uncomfortable...and I hate that, but I understand why you chose to depict it like that because I didn't know that's how it happened....But I'm a woman and I'm going to have to deal with that and...i'm not excited for it. But as an engineer, I want to know why we are using that technology," 
