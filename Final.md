@@ -2,13 +2,17 @@ THe Final Project
 
 #Pressing through the pain, How compression mammogramy is limiting patient outcome
 
-## The Idea [wireframe.md]
+## The Idea 
+link to Part 1[wireframe.md]
 
-To leearn more about the current state of breast imaging technology and display the gaps between pratient needs and what is being satisfied. Breast Imaging in painful in the current state, which is often overlooked by our current healthcare system. Exposing these gaps can insipre readers to act today, educate thier loved ones, and consider dontating to a research foundation that first supports patients’ needs.
+I wanted to create a document to jelp my readers learn more about the current state of breast imaging technology and display the gaps between pratient needs and what is being satisfied. Breast Imaging in painful in the current state, which is often overlooked by our current healthcare system. Exposing these gaps can insipre readers to act today, educate thier loved ones, and consider dontating to a research foundation that first supports patients’ needs.
 
-
-'A high-level summary of your project.  (Part I)
 A project structure that outlines the major elements of your story. (Part I)
+
+The proposed story I'd like
+
+### Introduction
+
 A short paragraph that documents your data source(s), and an explanation of how you plan on using your data. (Part I)
 A link to the publicly-accessible data you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. (Part I)
 A few paragraphs summarizing your approach to the project (method and medium - Part I)
