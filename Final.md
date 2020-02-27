@@ -1,5 +1,5 @@
 # Pressing through the pain, How compression mammogramy is limiting patient outcome
-![Cover.png]
+!(Cover.png)
 
 ## The Idea 
 [link to Part 1](/wireframe.md)
