@@ -40,6 +40,9 @@ Part I of the Final
 Part II of the Final 
 [User Interviews](/Parttwo.md)
 
+The Final Part of the Final
+[Finale Finale Final](/Final.md)
+
 
 ## In Class Examples
 
