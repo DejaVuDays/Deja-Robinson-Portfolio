@@ -4,7 +4,7 @@
 # Pressing through the pain, How compression mammogramy is limiting patient outcome
 
 ## The Idea 
-[link to Part 1][wireframe.md]
+[link to Part 1](/wireframe.md)
 
 I wanted to create a document to help my readers learn more about the current state of breast imaging technology and display the gaps between pratient needs and what is being satisfied. Breast Imaging can be painful and is often overlooked by our current healthcare system. Exposing these gaps can insipre readers to act today, educate thier loved ones, and consider dontating to a research foundation that first supports patients’ needs.
 
@@ -35,7 +35,7 @@ The majority of my data is coming from peer reviewed academic sources. [Here are
 I will be using Microsoft Powerpoint, Datawrapper, Inkscape, and GIMP to create my images and data vizulizations. My final project will be displayed in Shorthand.
 
 ## Design and User Research 
-[link to Part 2][Parttwo.md]
+[link to Part 2](/Parttwo.md)
 
 ### Sketches, storyboards and wireframes
 
@@ -93,10 +93,39 @@ C: Female, 23, Speciality: CMU Biomedical Graduate Student.
 "I wish there was more information about compression. The image of the boobs being squished is uncomfortable...and I hate that, but I understand why you chose to depict it like that because I didn't know that's how it happened....But I'm a woman and I'm going to have to deal with that and...i'm not excited for it. But as an engineer, I want to know why we are using that technology," 
 Final data story
 
-These invervies helped me narrow down my focus, while adding conent I had originally overlooked to ensure I had a full story.
+These invervies helped me narrow down my focus, while adding conent I had originally overlooked to ensure I had a full story. 
 
-A few paragraphs that summarize the work you've done so far.  Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process. (Part III)
-Include a link to your updated Github repository that includes a link to your final data story (e.g. a link to your Shorthand / StoryMap or other final project).  Make sure your data story is published and publicly accessible. (Part III)
-Add a link to your final data story (a direct link to Shorthand / StoryMap / etc.) placed in the final presentation spreadsheet here (Links to an external site.).  Add the link next to your name in the spreadsheet, and update the title to reflect the working title for your presentation.  (Part III)
-Include all references for materials used.  It's your responsibility to ensure you have permission to use imagery and other assets, and that you use them appropriately.  A reminder to NOT USE COPYRIGHTED MATERIAL - see the library's guide to ensure you are using images correctlyLinks to an external site..  Make sure to add / update any citations and / or other content that you used to create your data story.  References should also be clearly identified on your final data story itself.  (Part III)
-Include any other information that helps round out your data story. (Part III)
+# The Final Website
+
+Please check out my story [here](https://carnegiemellon.shorthandstories.com/pressing-through-the-pain-/index.html) 
+
+Creating the final website was a bit more difficult than I expected. I've never been a designer and finding compimentary images, texts, and moods for the story I was trying to create took longer than I expected. I am happy with the result, but I found that I was overwhelemed with the amount of data I was digging through to create a narrative. I found myself reading and rereading articles, and chewing over the data that could be valuable to include. I spent time creating and cutting charts and graphs, and eventually just had to stop myself because I didn't want to story to be crowded. Looking back now, I wish I took my TAs advice of really understanding my datasource and what type of charts would support my story at a sooner date. 
+
+I know now to trust the process that has been laid out before me, and I'm excited to start my next project!
+
+# Refrences 
+
+[1] Breast Cancer in the U.S, Statista 
+[2] Miller R. G. (2001). Breast cancer screening: can we talk?. Journal of general internal medicine, 16(3), 206–207. https://doi.org/10.1111/j.1525-1497.2001.10119.x 
+[3] Breast Cancer Facts & Figures 2017-20178; American Cancer Society
+[4] de Blok Christel J M, et al. (2019) Breast cancer risk in transgender people receiving hormone treatment: nationwide cohort study in the Netherlands BMJ 2019; 365 :l1652 
+[6] NIH Mammogramy:  https://www.nibib.nih.gov/science-education/science-topics/mammography 
+[7] Koning Health competitive Analysis ;  http://koninghealth.com/en/kbct/ 
+[8] Brawling Over Mammogramy, Elliot Marshal 2010
+[9] Ana F. et al. (2015) Breast Cancer Screening Among Dominican Latinas: A Closer Lookat Fatalism and Other Social and Cultural Factors
+[10] P. Whelehan MSc et al. (2016) Client and practitioner perspectives on the screening
+ mammography experience
+[11] Mi Hwa Lee et al. (2019) Barriers to Breast Cancer Screening and Coping Strategies in Korean American Women
+
+## Images 
+https://www.pexels.com/photo/photo-of-woman-carrying-her-child-2406947/  
+https://www.pexels.com/photo/tilt-shift-lens-photography-of-woman-wearing-red-sweater-and-white-skirt-while-holding-a-boy-wearing-white-and-black-crew-neck-shirt-and-blue-denim-short-1027931/  
+https://www.pexels.com/photo/close-up-photo-of-pink-and-white-brick-wall-3147624/  
+https://www.pexels.com/photo/awareness-cancer-design-pink-579474/  
+https://commons.wikimedia.org/wiki/File:Woman_receives_mammogram.jpg  
+https://en.m.wikipedia.org/wiki/File:X-ray_of_normal_hand_by_dorsoplantar_projection.jpg https://health.mil/News/Gallery/Photos/2016/10/05/Mammogram   
+https://www.pexels.com/photo/boobs-bra-breasts-cleavage-631457/   
+https://commons.wikimedia.org/wiki/File:Diagnosis_-_Mammography.jpg  
+https://www.istockphoto.com/ca/photo/solving-womens-health-issues-gm1128870494-298000761  
+http://www.everystockphoto.com/photo.php?imageId=1424673&npos=24&searchId=8ac20bf5803e6067a65165d9df51a8e7 https://commons.wikimedia.org/wiki/File:Breast_exam_(series_of_16)_(15).jpg https://upload.wikimedia.org/wikipedia/commons/d/d5/Oncology_doctor_consults_with_patient.jpg   
+https://www.pexels.com/photo/woman-in-blue-suit-jacket-2422293/ 
