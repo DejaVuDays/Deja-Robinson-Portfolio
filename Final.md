@@ -1,4 +1,3 @@
-# Pressing through the pain, How compression mammogramy is limiting patient outcome
 ![Welcome Page](Cover.png)
 
 ## The Idea 
